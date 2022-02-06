@@ -1,0 +1,60 @@
+.header_wrapper {
+  width: 100%;
+  display: flex;
+}
+.header_inner {
+  width: 30%;
+}
+
+.header_inner img {
+  width: 35%;
+  height: auto;
+  margin: 5%;
+}
+
+.header_inner nav ul {
+  text-align: center;
+  width: 40%;
+  margin: 5% auto;
+}
+
+.header_inner nav ul li {
+  font-size: 1.1em;
+  font-weight: bold;
+  padding-bottom: 20%;
+}
+
+.header_inner nav ul li a:hover {
+  opacity: 0.5;
+}
+
+.header_inner nav ul li a.color {
+  color: #ff8856;
+}
+.top_inner {
+  width: 70%;
+  position: relative;
+}
+
+.top_inner img {
+  width: 100%;
+  height: auto;
+}
+.top_title {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  background: #fff;
+  padding: 3% 7.5% 3% 2%;
+  line-height: 0.8;
+}
+
+.top_title h1 {
+  font-size: 3.5em;
+  color: #ff8856;
+}
+
+.top_title h1 small {
+  font-size: 0.5em;
+  color: #777;
+}
