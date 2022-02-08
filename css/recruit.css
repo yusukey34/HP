@@ -4,9 +4,7 @@
 }
 .top_title {
   position: absolute;
-  top: 50%;
-  left: 50%;
-  bottom: 30%;
+  bottom: 0;
   background: #fff;
   padding: 3% 7.5% 3% 2%;
   line-height: 0.8;

@@ -143,6 +143,7 @@
 .feature_txt {
   margin: 10%;
   border: 5px solid green;
+  padding: 5%;
 }
 .service_item_wrapper {
   display: flex;
