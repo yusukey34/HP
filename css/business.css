@@ -11,6 +11,7 @@
 
 .business_top li {
   text-align: center;
+  padding-top: 20%;
 }
 
 .business_top li a {
@@ -24,6 +25,7 @@
 .business_top li a small {
   color: #ff8856;
 }
+
 .business_all {
   position: relative;
   margin: 7.5% 0;
